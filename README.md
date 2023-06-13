@@ -2,8 +2,11 @@
  Track fibers for the "Particle Tracking Velocity (PTV)" experiments during rheology and relative studies
 ## Tracking Fibers' Rotation and Movement in Video Recordings
 This package was developped to track fibers for the "Particle Tracking Velocity (PTV)" methods of experiments during rheology studies. 
-Author: Dr. Benke Li
+
+Author: Dr. Benke Li (李本科)
+
 Author's ORCID: https://orcid.org/0000-0002-8830-0563
+
 Author's ResearchGate: https://www.researchgate.net/profile/Benke-Li
 
 > Please cite this paper if you use this package:
