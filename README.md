@@ -33,7 +33,11 @@ The demo data and demo tracking results were stored in folder `data` of  this pa
 ## Usage
 This package was tested in MATLAB2023 and MATLAB2016. 
 
- - Overview of This package
+- Start the app
+
+Download this package, and run `main.m` in MATLAB.
+
+- Overview of This package
 
 ![Packgae and Video Data Overview](docs/overview.png)
 
