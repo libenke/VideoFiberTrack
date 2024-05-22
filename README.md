@@ -12,19 +12,19 @@ Author's ResearchGate: https://www.researchgate.net/profile/Benke-Li
 > Please cite this paper if you use this package:
 >
 > Benke Li, Ying Guo, Paul Steeman, Markus Bulters, Wei Yu. "Wall effect on the rheology of short-fiber suspensions under shear" __Journal of Rheology__ 2021, 65 (6), 1169–1185.
-> 
-> @article{10.1122/8.0000292,
->     author = {Li, Benke and Guo, Ying and Steeman, Paul and Bulters, Markus and Yu, Wei},
->     title = "{Wall effect on the rheology of short-fiber suspensions under shear}",
->     journal = {Journal of Rheology},
->     volume = {65},
->     number = {6},
->     pages = {1169-1185},
->     year = {2021},
->     month = {11},
->     issn = {0148-6055},
->     doi = {10.1122/8.0000292},
->     url = {https://doi.org/10.1122/8.0000292}, }
+>
+> @Article{10.1039/D3SM00943B,
+>      author ="Li, Benke and You, Wei and Liu, Sijun and Peng, Li and Huang, Xianbo and Yu, Wei",
+>      title  ="Role of confinement in the shear banding and shear jamming in noncolloidal fiber suspensions",
+>      journal  ="Soft Matter",
+>      year  ="2023",
+>      volume  ="19",
+>      issue  ="46",
+>      pages  ="8965-8977",
+>      publisher  ="The Royal Society of Chemistry",
+>      doi  ="10.1039/D3SM00943B",
+>      url  ="http://dx.doi.org/10.1039/D3SM00943B"}
+>
 ## Issues and Background
 Particle Tracking Velocity (PTV) methods are widely applied in rheology studies of non-Newtonian fluids. During which a small amount of tracking particles was added in the fluids to be captured by the camera, whose trajectories could be represented the fluid's flow fields. 
 It is easy to follow the movement of the spherical particles by picture register algorithms, e.g. figure correlations. However, for fiber filled suspensions fluids, due to the invlovlement of fibers' rotation movements, it was hard to tracking the fiber's movement by simply applying the correlation register algorithms. Thus, we developped this package based on `MATLAB` during our studies  [wall effect on the rheology of short-fiber suspensions under shear](https://doi.org/10.1122/8.0000292). Now we open this package based on GPL3 license to benifit relative studies.
