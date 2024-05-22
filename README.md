@@ -9,21 +9,11 @@ Author's ORCID: https://orcid.org/0000-0002-8830-0563
 
 Author's ResearchGate: https://www.researchgate.net/profile/Benke-Li
 
-> Please cite this paper if you use this package:
+> Please cite these two papers if you use this package:
 >
-> Benke Li, Ying Guo, Paul Steeman, Markus Bulters, Wei Yu. "Wall effect on the rheology of short-fiber suspensions under shear" __Journal of Rheology__ 2021, 65 (6), 1169–1185.
+> Benke Li, Ying Guo, Paul Steeman, Markus Bulters, Wei Yu. "Wall effect on the rheology of short-fiber suspensions under shear." __Journal of Rheology__ 2021, 65 (6), 1169–1185.
 >
-> @Article{10.1039/D3SM00943B,
->      author ="Li, Benke and You, Wei and Liu, Sijun and Peng, Li and Huang, Xianbo and Yu, Wei",
->      title  ="Role of confinement in the shear banding and shear jamming in noncolloidal fiber suspensions",
->      journal  ="Soft Matter",
->      year  ="2023",
->      volume  ="19",
->      issue  ="46",
->      pages  ="8965-8977",
->      publisher  ="The Royal Society of Chemistry",
->      doi  ="10.1039/D3SM00943B",
->      url  ="http://dx.doi.org/10.1039/D3SM00943B"}
+> Benke Li, Wei You, Sijun Liu, Li Peng, Xianbo Huang, and Wei Yu. "Role of confinement in the shear banding and shear jamming in noncolloidal fiber suspensions." __Soft Matter__ 2023, 19 (46), 8965-8977.
 >
 ## Issues and Background
 Particle Tracking Velocity (PTV) methods are widely applied in rheology studies of non-Newtonian fluids. During which a small amount of tracking particles was added in the fluids to be captured by the camera, whose trajectories could be represented the fluid's flow fields. 
