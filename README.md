@@ -29,20 +29,20 @@ Download this package, and run `main.m` in MATLAB.
 
 - Overview of This package
 
-![Packgae and Video Data Overview](docs/overview.png)
+<img src="docs/overview.png" alt="psi" width="360" />
 
  - Open Videos, available in '.avi' and '.mp4' type of video
 
-![How to Open Video](docs/open_video.png)
+<img src="docs/open_video.png" alt="psi" width="360" />
 
  - Play Videos
- 
-![How to Play Video](docs/play_video.png)
+
+<img src="docs/play_video.png" alt="psi" width="360" />
 
  - Label Fibers in the Video and Tracking Them, and Export Results
 
-![How to Label Fibers, Tracking and Export '.txt' Results](docs/label_fiber_and_track.png)
+<img src="docs/label_fiber_and_track.png" alt="psi" width="360" />
 
  - Trim the Tracking Results by Hand if Needed, Delete the Tracking Results by Hand if Duplicated.
 
-![How to Trim of Delete the Tracking Results by Hand if needed](docs/trim_tracking_results.png)
+<img src="docs/trim_tracking_results.png" alt="psi" width="360" />
